@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "ruffle",
+			"path": "."
+		},
+		{
+			"name": "data",
+			"path": "../data"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "data"
+	}
+}
