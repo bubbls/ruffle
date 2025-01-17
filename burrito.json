@@ -1,0 +1,13 @@
+{
+    "companyName": "Juicy Beast Studio",
+    "productName": "Burrito Bison",
+    "dataUrl": "https://rawcdn.githack.com/mountain658/BurritoBison/847c40b3aeee020afd4ffffacb65e36404e5a9de/burrito-bison-ll.data.unityweb",
+    "asmCodeUrl": "https://rawcdn.githack.com/mountain658/BurritoBison/847c40b3aeee020afd4ffffacb65e36404e5a9de/burrito-bison-ll.asm.code.unityweb",
+    "asmMemoryUrl": "https://cdn.jsdelivr.net/gh/mountain658/BurritoBison@847c40b3aeee020afd4ffffacb65e36404e5a9de/burrito-bison-ll.asm.memory.unityweb",
+    "asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/mountain658/BurritoBison@847c40b3aeee020afd4ffffacb65e36404e5a9de/burrito-bison-ll.asm.framework.unityweb",
+    "TOTAL_MEMORY": 536870912,
+    "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+    "webglContextAttributes": { "preserveDrawingBuffer": false },
+    "splashScreenStyle": "Dark",
+    "backgroundColor": "#000000"
+}
